@@ -29,3 +29,5 @@ Type git commit.
 Git Pull: retrieves a file from remote
 git add: moves files to the staging area
 git commit: moves the files in the staging area to destination
+
+8. Git is an Open Source Distributed Version Control System. .
