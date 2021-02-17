@@ -17,3 +17,10 @@ Gogs (Self-Hosted)
 Github
 
 5. A Git repository is the . git/ folder inside a project. This repository tracks all changes made to files in your your project
+
+6. Create a directory to contain the project.
+Go into the new directory.
+Type git init.
+Write some code.
+Type git add to add the files
+Type git commit.
