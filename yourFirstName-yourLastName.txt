@@ -33,3 +33,5 @@ git commit: moves the files in the staging area to destination
 8. Git is an Open Source Distributed Version Control System. .
 
 9. The . git folder contains all the information that is necessary for your project in version control and all the information about commits, remote repository address, etc.
+
+10. Deleting the . git folder does not delete the other files in that folder which is part of the git repository. However, the folder will no longer be under versioning control
