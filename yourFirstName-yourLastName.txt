@@ -31,3 +31,5 @@ git add: moves files to the staging area
 git commit: moves the files in the staging area to destination
 
 8. Git is an Open Source Distributed Version Control System. .
+
+9. The . git folder contains all the information that is necessary for your project in version control and all the information about commits, remote repository address, etc.
