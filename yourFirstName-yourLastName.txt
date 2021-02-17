@@ -3,3 +3,5 @@ Git is a local VCS software that enables developers to save snapshots of their p
 GitHub is a web-based platform that incorporates git's version control features so they can be used collaboratively.
 
 2.  Version control also helps developers move faster and allows software teams to preserve efficiency and agility as the team scales to include more developers.
+
+3. Git
