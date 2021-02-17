@@ -15,3 +15,5 @@ AWS CodeCommit.
 Phabricator. 
 Gogs (Self-Hosted)
 Github
+
+5. A Git repository is the . git/ folder inside a project. This repository tracks all changes made to files in your your project
