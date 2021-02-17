@@ -24,3 +24,8 @@ Type git init.
 Write some code.
 Type git add to add the files
 Type git commit.
+
+7. Git push: moves a file from local to remote
+Git Pull: retrieves a file from remote
+git add: moves files to the staging area
+git commit: moves the files in the staging area to destination
